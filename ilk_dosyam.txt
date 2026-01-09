@@ -1,3 +1,7 @@
-﻿Merhaba Git
+
+
 Bu satıe github üzerinden eklendi.
-Bu dosya BİLGİSAYARDA düzenlendi
+Bu dosya BİLGİSAYARDA düzenlend
+Bu satıe github üzerinden eklendi.
+
+Bu metin birleştirip yeniden oluşturuldu.
