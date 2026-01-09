@@ -1,1 +1,3 @@
 Merhaba Git
+Bu satıe github üzerinden eklendi.
+
